@@ -1,2 +1,2 @@
-# token
-erc20 token
+# solidity
+ERC20 代码合集
