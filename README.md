@@ -8,7 +8,7 @@
 ✅ 兼容主流EVM链（Ethereum、BSC、Polygon等）  
 
 ## 快速使用
-1. 克隆仓库：`git clone https://github.com/web028web028-afk/ERC20.git`  
+1. 克隆仓库：`git clone https://github.com/web028web028-afk/ERC20-Standard-Implementation.git`  
 2. 编译合约：使用Hardhat/Foundry/Truffle编译`ERC20.sol`  
 3. 部署：参考`deploy/`目录下的部署脚本  
 
